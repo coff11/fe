@@ -1,2 +1,1 @@
-# javascript-learning
-学习并理解Javascript。
+# 前端小结
